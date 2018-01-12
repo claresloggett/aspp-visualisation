@@ -1,0 +1,11 @@
+name: aspp-visualisation-env 
+
+dependencies:
+  - python=3.6
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - plotly
+  - bokeh
+  - holoviews
