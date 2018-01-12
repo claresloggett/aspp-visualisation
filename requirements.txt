@@ -1,5 +1,8 @@
 jupyter
 numpy
 pandas
+matplotlib
 seaborn
 plotly
+bokeh
+holoviews
