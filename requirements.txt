@@ -4,5 +4,6 @@ pandas
 matplotlib
 seaborn
 plotly
-bokeh
-holoviews
+altair
+vega
+vega-datesets
