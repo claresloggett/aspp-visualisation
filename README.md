@@ -6,13 +6,10 @@ To get started quickly **if** you already have all relevant packages installed:
 ```
 git clone https://github.com/claresloggett/aspp-visualisation
 cd aspp-visualisation
-jupyter notebook --NotebookApp.iopub_data_rate_limit=10000000
+jupyter notebook
 ```
 
-We'll use the notebooks in the order:
-* Matplotlib_and_tidy_data.ipynb
-* Seaborn.ipynb
-* Plotly.ipynb
+Note that you may possibly need `jupyter notebook --NotebookApp.iopub_data_rate_limit=10000000`; see below.
 
 You can create and activate a conda environment from the `environment.yml` file using
 
