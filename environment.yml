@@ -3,6 +3,7 @@ name: aspp-visualisation-env
 dependencies:
   - python=3.6
   - jupyter
+  - notebook
   - pandas
   - numpy
   - matplotlib
@@ -10,4 +11,4 @@ dependencies:
   - plotly
   - altair
   - vega
-  - vega-datasets
+  - vega_datasets

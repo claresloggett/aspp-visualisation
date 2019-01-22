@@ -6,4 +6,4 @@ seaborn
 plotly
 altair
 vega
-vega-datesets
+vega_datasets
